@@ -1,1 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/joeengo/exploiting/main/Shaders.lua", true))()
+
+end)
+ function() 
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+
+end)
